@@ -32,6 +32,10 @@ Frontend desenvolvido em **Angular** para gerenciar os movimentos contábeis man
 ---
 
 
+## 🗂️ Estrutura de Pastas
+
+<img width="424" height="322" alt="image" src="https://github.com/user-attachments/assets/ed76a5da-ee53-49a0-a114-3f2e36162615" />
+
 ## ▶️ Como Executar
 
 1. Clone o repositório:
