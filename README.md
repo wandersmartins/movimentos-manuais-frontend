@@ -33,3 +33,33 @@ Frontend desenvolvido em **Angular** para gerenciar os movimentos contábeis man
 
 ## 🗂️ Estrutura de Pastas
 
+src/app/
+├── features/
+│ └── movimento-manual/
+│ ├── movimento-manual-consulta/
+│ └── movimento-manual-cadastro/
+├── models/
+├── services/
+├── shared/
+│ └── component/message/
+
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/MovimentosManuais.Frontend.git
+cd MovimentosManuais.Frontend
+
+npm install
+
+ng serve -o
+
+🔗 Backend
+Este frontend depende da API .NET que deve estar configurada e em execução.
+
+📄 Licença
+Este projeto é licenciado sob os termos da MIT License.
