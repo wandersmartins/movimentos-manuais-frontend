@@ -31,19 +31,6 @@ Frontend desenvolvido em **Angular** para gerenciar os movimentos contábeis man
 
 ---
 
-## 🗂️ Estrutura de Pastas
-
-src/app/
-|--- features/
-||--- movimento-manual/
-│  |--- movimento-manual-consulta/
-│  |--- movimento-manual-cadastro/
-|--- models/
-|--- services/
-|--- shared/
-│ |--- component/message/
-
----
 
 ## ▶️ Como Executar
 
