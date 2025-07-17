@@ -1,27 +1,35 @@
-# Movimentos-Manuais-Frontend
+# 💻 MovimentosManuais.Frontend
 
-Frontend desenvolvido em Angular 16 para gerenciamento de movimentos contábeis manuais, totalmente integrado com a API backend em .NET.
+Frontend desenvolvido em **Angular** para gerenciar os movimentos contábeis manuais, conforme requisitos do desafio prático. A aplicação consome a API backend desenvolvida em .NET.
 
-🧰 Tecnologias utilizadas:
-Angular
+---
 
-TypeScript
+## 📸 Prévia
 
-Bootstrap 
+> Interface de cadastro e consulta de movimentos, com layout responsivo e experiência otimizada.
 
-FormsModule (formulários reativos e template-driven)
+---
 
-Componentização com boas práticas (modularização e reaproveitamento)
+## 🧰 Tecnologias Utilizadas
 
-Toast/Alert customizado para feedback ao usuário
+- [Angular ](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap ](https://getbootstrap.com/)
+- [RxJS](https://rxjs.dev/)
+- HTTP Client Module
+- FormsModule (formulários reativos e template-driven)
 
-🎯 Funcionalidades:
-Tela de consulta com listagem de movimentos manuais
+---
 
-Tela de cadastro com validações e integração com API
+## 🎯 Funcionalidades
 
-Carregamento dinâmico de produtos e códigos COSIF com base na seleção
+- ✅ Tela de **consulta** de movimentos manuais por mês/ano
+- ✅ Tela de **cadastro** de novos movimentos com validações
+- ✅ Componente de mensagens reutilizável com exibição automática
+- ✅ Seleção dinâmica de códigos COSIF conforme o produto escolhido
+- ✅ Boas práticas com estrutura em módulos, serviços e componentização
 
-Feedbacks amigáveis via componente message
+---
 
+## 🗂️ Estrutura de Pastas
 
