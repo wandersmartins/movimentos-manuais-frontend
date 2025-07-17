@@ -1,5 +1,5 @@
 # Movimentos-Manuais-Frontend
-💻 MovimentosManuais.Frontend
+
 Frontend desenvolvido em Angular 16 para gerenciamento de movimentos contábeis manuais, totalmente integrado com a API backend em .NET.
 
 🧰 Tecnologias utilizadas:
